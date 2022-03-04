@@ -113,21 +113,3 @@ The maven plugins are reusable.
 
 It is less preferred than Maven.	
 It is more preferred than Ant.
-
-
-
-- build phases in Maven : 
-
-
-- List out the build, source and test source directory for POM in Maven
-- Where do you find the class files when you compile a Maven project
-- what is goal in maven command
-- IMP: make one maven project and use this project as a dependency in another project
-- different maven commands and its use:
-- ex: mvn clean ,mvn clean package,mvn install
-
-xmlns="http://maven.apache.org/POM/4.0.0"
-XML namespace
-
-xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-XML Schema instance namespace
